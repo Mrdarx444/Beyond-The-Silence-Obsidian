@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "fabe8e640bd63826",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed39b0857714f982",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc1ded00c4f3d811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "القصة.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "القصة"
+            }
+          },
+          {
+            "id": "752ceb2838766cff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "الأعداء/زومبي.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "زومبي"
+            }
+          },
+          {
+            "id": "c04bbb093853cc1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "الاعب.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "الاعب"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7874fb969b3207e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "391851445b9b8615",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b9be4d0840ed3aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "744b29f8c0b84922",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8cd22caad759f311",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b25b02a81d7061d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "945db009257d008c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a798828d8fb56573",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "7916319cdd3e3b72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "5e4f3815fdce4f33",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f6b26ae74d2f7f60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "9b9be4d0840ed3aa",
+  "lastOpenFiles": [
+    "القصة.md",
+    "الأعداء/زومبي.md",
+    "الأعداء",
+    "Assets/مخطوطة.png",
+    "Assets",
+    "المخطوطات.md",
+    "الاعب.md",
+    "فكرة اللعبة.md",
+    "جهاز بذرة العالم.md",
+    "[[الاعب]].md",
+    "المهام.md",
+    "الشخصيات",
+    "~/OneDrive/Desktop/Main.md",
+    "~/OneDrive/Desktop",
+    "~/OneDrive",
+    "~",
+    "Untitled Kanban.md",
+    "Welcome.md"
+  ]
+}

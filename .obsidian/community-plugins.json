@@ -2,5 +2,6 @@
   "dataview",
   "obsidian-tasks-plugin",
   "obsidian-kanban",
-  "gdscript-syntax-highlighting"
+  "gdscript-syntax-highlighting",
+  "chatgpt-md"
 ]
